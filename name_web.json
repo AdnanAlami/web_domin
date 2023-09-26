@@ -1,12 +1,21 @@
 {
   "data": [
     {
-        "4shared": "4shared" ,
-        "Mp4upload": "mp4upload" ,
-        "ok.ru": "ok.ru",
-        "dood": "dood",
-        "uqload": "uqload",
-        "streamtap": "streamtape"
+      "4shared": "4shared" ,
+      "Mp4upload": "mp4upload" ,
+      "ok.ru": "ok.ru",
+      "dood": "dood",
+      "uqload": "uqload",
+      "voe.sx": "voe.sx",
+      "vadbam": "vadbam",
+      "embedwish": "embedwish",
+      "viidshar": "viidshar",
+      "mixdrop": "mixdrop",
+      "streamhide": "streamhide",
+      "dailymotion": "dailymotion",
+      "filelions": "filelions",
+      "leech": "leech",
+      "streamtap": "streamtape"
     }
 ]
   }   
