@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+     "zidlions1": "master",
+     "zidlions2": "index",
+     "zidlions_web": "zidlions",
+     "vidtube": "cdn-tube",
+     "vidtube_web": "vidtube",
+     "filemoon1": "master",
+     "filemoon2": "index",
+     "filemoon_web": "filemoon",
+     "guard": "guardstorage",
+     "guard_web": "vembed",
+     "bestx": "bestx",
+     "streamvid1": "master",
+     "streamvid2": "index",
+     "streamvid_web": "streamvid"
+    }
+]
+  }   
