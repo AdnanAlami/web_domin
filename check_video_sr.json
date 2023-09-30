@@ -3,12 +3,9 @@
         {
             "vk1": "vkvd",
             "vk2": "vkvd",
-            "filemoon1": "master",
-            "filemoon2": "index",
+            "filemoon1": "iframe",
             "stardima1": "lh3",
-            "stardima2": "lh3",
-            "super1": "master",
-            "super2": "index"
+            "super1": "https",
         }
     ]
 }
