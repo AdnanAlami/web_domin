@@ -27,6 +27,7 @@
       "Inertia": "X-Inertia-Partial-Component",
       "mirror": "web/videos/mirror",
       "webleech": "web/videos/leech",
+      "krakenfiles": "krakenfiles",
       "streamtap": "streamtape"
     }
 ]
