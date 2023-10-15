@@ -7,6 +7,8 @@
      "guard": "guardstorage",
      "bestx": "bestx",
      "mixdrop1": "MDCore",
+     "watch": "watch",
+     "play": "play",
      "streamvid1": "file"
     }
 ]
