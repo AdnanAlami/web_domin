@@ -24,6 +24,8 @@
       "megamax": "megamax",
       "leech": "leech",
       "mail_ru": "mail.ru",
+      "Inertia": "X-Inertia-Partial-Component",
+      "mirror": "web/videos/mirror",
       "streamtap": "streamtape"
     }
 ]
