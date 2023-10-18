@@ -3,6 +3,9 @@
     {
      "zidlions1": "file",
      "segavid": "file",
+     "Inertia": "X-Inertia-Partial-Component",
+     "mirror": "web/videos/mirror",
+     "webleech": "web/videos/leech",
      "filemoon1": "iframe"
     }
 ]
