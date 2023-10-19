@@ -9,6 +9,8 @@
      "mixdrop1": "MDCore",
      "watch": "watch",
      "play": "play",
+     "Inertia": "X-Inertia-Partial-Component",
+     "mirror": "web/videos/mirror",
      "streamvid1": "file"
     }
 ]
