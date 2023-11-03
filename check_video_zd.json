@@ -10,6 +10,7 @@
      "postcheck": "post",
      "watch": "watch",
      "play": "play",
+      "webleech": "web/videos/leech",
      "Inertia": "X-Inertia-Partial-Component",
      "mirror": "web/videos/mirror",
      "streamvid1": "file"
