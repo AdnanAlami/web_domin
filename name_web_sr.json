@@ -28,6 +28,7 @@
       "mirror": "web/videos/mirror",
       "webleech": "web/videos/leech",
       "krakenfiles": "krakenfiles",
+      "strema": "strema",
       "streamtap": "streamtape"
     }
 ]
