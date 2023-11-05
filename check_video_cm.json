@@ -3,6 +3,10 @@
     {
      "vidpro1": "file",
      "vidlook1": "file",
+     "streamtapembed": "https://streamtape.com",
+     "uqloadembed": "https://uqload.io",
+     "okruembed": "https://ok.ru",
+     "doodembed": "https://doods.pro",
      "upstream1": "player"
     }
 ]
