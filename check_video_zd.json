@@ -10,9 +10,19 @@
      "postcheck": "post",
      "watch": "watch",
      "play": "play",
-      "webleech": "web/videos/leech",
+     "webleech": "web/videos/leech",
      "Inertia": "X-Inertia-Partial-Component",
      "mirror": "web/videos/mirror",
+     "uqloadembed": "https://uqload.io",
+     "doodembed": "https://doods.pro",
+     "vidtuveembed": "https://vidtube.pro",
+     "zidlionsembed": "https://filelions.xyz",
+     "mixdropembed": "https://mixdrop.to",
+     "vadbamembed": "https://qqw6.vadbam.net",
+     "megamaxembed": "https://megamax.me",
+     "streamvidembed": "https://streamvid.net",
+     "vidguradembed": "vid-guard.com",
+     "filemoonembed": "https://filemoon.art",
      "streamvid1": "file"
     }
 ]
