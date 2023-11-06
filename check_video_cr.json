@@ -8,6 +8,7 @@
      "checkdrive": "googledrive",
      "linkdrive": "https://drive.google.com/uc?id=",
      "docs": "docs.googleusercontent.com/docs/securesc/",
+     "driveid": "drive",
      "linkbox2": "linkbox"
     }
 ]
