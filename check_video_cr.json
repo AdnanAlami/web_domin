@@ -5,6 +5,8 @@
      "check_linkbox": "https://wht.nuplink.net",
      "linkbox_domin": "https://www.linkbox.to/file/",
      "linkbox1": "linkbox",
+     "checkdrive": "googledrive",
+     "linkdrive": "https://drive.google.com/uc?id=",
      "linkbox2": "linkbox"
     }
 ]
