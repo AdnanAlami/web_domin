@@ -5,7 +5,7 @@
      "segavid": "file",
      "Inertia": "X-Inertia-Partial-Component",
      "mirror": "web/files/mirror/video",
-     "webleech": "web/videos/leech",
+     "webleech": "web/files/leech/video",
     "streamtapembed": "https://streamtape.com",
      "uqloadembed": "https://uqload.io",
      "okruembed": "https://ok.ru",
