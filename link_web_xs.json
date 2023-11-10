@@ -12,6 +12,9 @@
         "doodembed": "https://doods.pro",
         "4sharedembed": "https://4shared.com/web/embed/file/" ,
         "Mp4uploadembed": "https://www.mp4upload.com" ,
+        "checkdrive": "drive",
+        "linkdrive": "https://drive.google.com/uc?id=",
+        "docs": "docs.googleusercontent.com/docs/securesc/",
         "streamtap": "https://streamtape.com"
     }
 ]
