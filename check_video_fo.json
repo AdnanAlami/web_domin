@@ -4,6 +4,7 @@
      "json1": "/api/episode?episodeId=",
      "jsoncode1": "{",
      "jsoncode2": "}",
+     "jsoneps": "\"}]",
      "json2": "&showId="
     }
 ]
