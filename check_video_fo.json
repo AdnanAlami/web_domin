@@ -2,6 +2,8 @@
   "data": [
     {
      "json1": "/api/episode?episodeId=",
+     "jsoncode1": "{",
+     "jsoncode1": "}",
      "json2": "&showId="
     }
 ]
