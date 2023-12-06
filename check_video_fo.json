@@ -3,7 +3,7 @@
     {
      "json1": "/api/episode?episodeId=",
      "jsoncode1": "{",
-     "jsoncode1": "}",
+     "jsoncode2": "}",
      "json2": "&showId="
     }
 ]
