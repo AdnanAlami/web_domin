@@ -11,7 +11,7 @@
       "fileupload1": "file",
      "Inertia": "X-Inertia-Partial-Component",
      "mirror": "web/files/mirror/video",
-     "webleech": "web/files/leech/video",
+     "webleech": "files/leech/video",
     "streamtapembed": "https://streamtape.com",
      "uqloadembed": "https://uqload.io",
      "okruembed": "https://ok.ru",
