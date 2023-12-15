@@ -5,6 +5,7 @@
      "check_linkbox": "https://aht.nuplink.net/pool/pub",
      "linkbox_domin": "https://www.linkbox.to/file/",
      "linkbox1": "linkbox",
+     "apilinkbox": "https://www.linkbox.to/api/file/detail?itemId=",
      "checkdrive": "googledrive",
      "linkdrive": "https://drive.google.com/uc?id=",
      "docs": "docs.googleusercontent.com/docs/securesc/",
