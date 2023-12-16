@@ -25,6 +25,7 @@
       "fileupload": "file-upload",
       "updown": "updown",
       "upstream": "upstream",
+      "hexupload": "hexupload",
       "megamax": "megamax",
       "streamtap": "streamtape"
     }
