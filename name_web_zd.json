@@ -22,6 +22,8 @@
       "streamvid": "streamvid",
       "krakenfiles": "krakenfiles",
       "vudeo": "vudeo",
+      "fileupload": "file-upload",
+      "updown": "updown",
       "megamax": "megamax",
       "streamtap": "streamtape"
     }
