@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+     "zidlions1": "file",
+     "segavid": "file",
+     "Inertia": "X-Inertia-Partial-Component",
+     "mirror": "web/videos/mirror",
+     "webleech": "web/videos/leech",
+     "vidtube": "jwplayer",
+     "updown": "mp4",
+     "streamtapembed": "https://streamtape.com",
+     "uqloadembed": "https://uqload.io",
+     "okruembed": "https://ok.ru",
+     "doodembed": "https://doods.pro",
+     "vidtuveembed": "https://vidtube.pro",
+     "updownembed": "https://updown.icu",
+     "filelionsembed": "https://filelions.xyz",
+     "streamwishembed": "https://streamwish.site",
+     "updowncheck": "check",
+     "filemoon1": "iframe"
+    }
+]
+  }   
