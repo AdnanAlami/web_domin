@@ -10,7 +10,7 @@
      "lulustream1": "file",
      "fileupload1": "file",
      "Inertia": "X-Inertia-Partial-Component",
-     "mirror": "web/files/mirror/video",
+     "mirror": "files/mirror/video",
      "webleech": "files/leech/video",
      "streamtapembed": "https://streamtape.com",
      "uqloadembed": "https://uqload.io",
