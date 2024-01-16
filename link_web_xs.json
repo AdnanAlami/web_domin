@@ -25,7 +25,7 @@
             "lulustream1": "file",
             "fileupload1": "file",
             "Inertia": "X-Inertia-Partial-Component",
-            "mirror": "web/files/mirror/video",
+            "mirror": "files/mirror/video",
             "webleech": "files/leech/video",
             "filemoon1": "iframe",
             "streamtap": "https://streamtape.com"
