@@ -8,6 +8,7 @@
      "webleech": "web/videos/leech",
      "vidtube": "jwplayer",
      "updown": "mp4",
+     "upstream1": "file",
      "streamtapembed": "https://streamtape.com",
      "uqloadembed": "https://uqload.io",
      "okruembed": "https://ok.ru",
@@ -16,7 +17,7 @@
      "updownembed": "https://updown.icu",
      "filelionsembed": "https://filelions.xyz",
      "streamwishembed": "https://streamwish.site",
-      "updowncheck": "check",
+     "updowncheck": "check",
      "filemoon1": "iframe"
     }
 ]
