@@ -8,7 +8,7 @@
      "apilinkbox": "https://www.linkbox.to/api/file/detail?itemId=",
      "checkdrive": "googledrive",
      "linkdrive": "https://drive.google.com/uc?id=",
-     "docs": "https://drive.usercontent.google.com/download?id=",
+     "docs": "&confirm=t&uuid=",
      "driveid": "drive",
      "linkbox2": "linkbox"
     }
