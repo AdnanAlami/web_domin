@@ -17,12 +17,19 @@
      "vidsrccontains": "https://vidplay.online/mediainfo/",
      "animesugecontains": "https://vidplay.online/mediainfo/",
      "kimoitvpostformcontains": "https://kimoitv.com/streamvpaid.php",
-     
-     
-     "updownembed": "https://updown.icu",
-     "filelionsembed": "https://filelions.xyz",
-     "streamwishembed": "https://streamwish.site",
-     "megamaxembed": "https://megamax.me",
+     "colseloadstramcontains": "mp4/junior.txt",
+     "ridocontainsindex": "index-v1-a1.m3u8",
+     "watchseriescontais": "https://vidplay.online/mediainfo/",
+     "fstreamcontains": "pollllop.com/_v11/",
+     "vofcontains": "https://vs025831.fstream365.xyz/m3u8/",
+     "backuocontains": "https://vidplay.online/mediainfo/",
+     "yotdocastreamcontains": "https://doc.moplay.org/get/",
+     "domainyotlinkdirect": "https://yot.gnicirp.com",
+     "getastreamcontainsurl": "https://doc.moplay.org/get/",
+     "indexasteam": "/index.m3u8",
+     "pathastream": ".voxzer.org/stream/",
+     "slashastream": "/",
+      
      "filemoon1": "iframe"
     }
 ]
