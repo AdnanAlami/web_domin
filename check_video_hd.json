@@ -1,36 +1,40 @@
 {
-  "data": [
-    {
-     "apilinkbox": "https://www.linkbox.to/api/file/detail?itemId=",
-     "videacontains1080": "https://videa.hu/static/1080p/",
-     "videacontains480": "https://videa.hu/static/480p/",
-     "videacontains360": "https://videa.hu/static/360p/",
-     "videacontains240": "https://videa.hu/static/240p/",
-     "jsoncheckwcostream": "div.iltext",
-     "parsewcostreamdomin": "https://embed.watchanimesub.net",
-     "refererwcostreamwatch": "https://embed.watchanimesub.net/",
-     "wcostreamgetvid": "/getvid?evid=",
-     "guradcontains": ".guardstorage.net/hls_3/",
-     "googledrivecontains": "&confirm=t&uuid=",
-     "anixtocontains": "https://vidplay.online/mediainfo/",
-     "newtoxiccontains": "/Videos/Cartoons/",
-     "vidsrccontains": "https://vidplay.online/mediainfo/",
-     "animesugecontains": "https://vidplay.online/mediainfo/",
-     "kimoitvpostformcontains": "https://kimoitv.com/streamvpaid.php",
-     "colseloadstramcontains": "mp4/junior.txt",
-     "ridocontainsindex": "index-v1-a1.m3u8",
-     "watchseriescontais": "https://vidplay.online/mediainfo/",
-     "fstreamcontains": "pollllop.com/_v11/",
-     "vofcontains": "https://vs025831.fstream365.xyz/m3u8/",
-     "backuocontains": "https://vidplay.online/mediainfo/",
-     "yotdocastreamcontains": "https://doc.moplay.org/get/",
-     "domainyotlinkdirect": "https://yot.gnicirp.com",
-     "getastreamcontainsurl": "https://doc.moplay.org/get/",
-     "indexasteam": "/index.m3u8",
-     "pathastream": ".voxzer.org/stream/",
-     "slashastream": "/",
-      
-     "filemoon1": "iframe"
-    }
-]
-  }   
+    "data": [
+        {
+            "apilinkbox": "https://www.linkbox.to/api/file/detail?itemId=",
+            "videacontains1080": "https://videa.hu/static/1080p/",
+            "videacontains480": "https://videa.hu/static/480p/",
+            "videacontains360": "https://videa.hu/static/360p/",
+            "videacontains240": "https://videa.hu/static/240p/",
+            "jsoncheckwcostream": "div.iltext",
+            "parsewcostreamdomin": "https://embed.watchanimesub.net",
+            "refererwcostreamwatch": "https://embed.watchanimesub.net/",
+            "wcostreamgetvid": "/getvid?evid=",
+            "guradcontains": ".guardstorage.net/hls_3/",
+            "googledrivecontains": "&confirm=t&uuid=",
+            "anixtocontains": "https://vidplay.online/mediainfo/",
+            "newtoxiccontains": "/Videos/Cartoons/",
+            "vidsrccontains": "https://vidplay.online/mediainfo/",
+            "animesugecontains": "https://vidplay.online/mediainfo/",
+            "kimoitvpostformcontains": "https://kimoitv.com/streamvpaid.php",
+            "colseloadstramcontains": "mp4/junior.txt",
+            "ridocontainsindex": "index-v1-a1.m3u8",
+            "watchseriescontais": "https://vidplay.online/mediainfo/",
+            "fstreamcontains": "pollllop.com/_v11/",
+            "vofcontains": "https://vs025831.fstream365.xyz/m3u8/",
+            "backuocontains": "https://vidplay.online/mediainfo/",
+            "yotdocastreamcontains": "https://doc.moplay.org/get/",
+            "domainyotlinkdirect": "https://yot.gnicirp.com",
+            "getastreamcontainsurl": "https://doc.moplay.org/get/",
+            "indexasteam": "/index.m3u8",
+            "pathastream": ".voxzer.org/stream/",
+            "slashastream": "/",
+            "httpsastream": "https://",
+            "formyugen": "https://yugenanime.tv/api/embed/",
+            "formoserver": "https://kisscartoon.sh/ajax/anime/load_episodes_v2?s=oserver",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy": "https://comedyshow.to/player/index.php?data=",
+            "filemoon1": "iframe"
+        }
+    ]
+}
