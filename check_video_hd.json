@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+     "apilinkbox": "https://www.linkbox.to/api/file/detail?itemId=",
+     "videacontains1080": "https://videa.hu/static/1080p/",
+     "videacontains480": "https://videa.hu/static/480p/",
+     "videacontains360": "https://videa.hu/static/360p/",
+     "videacontains240": "https://videa.hu/static/240p/",
+     "jsoncheckwcostream": "div.iltext",
+     "parsewcostreamdomin": "https://embed.watchanimesub.net",
+     "refererwcostreamwatch": "https://embed.watchanimesub.net/",
+     "wcostreamgetvid": "/getvid?evid=",
+     "guradcontains": ".guardstorage.net/hls_3/",
+     "googledrivecontains": "&confirm=t&uuid=",
+     "anixtocontains": "https://vidplay.online/mediainfo/",
+     "newtoxiccontains": "/Videos/Cartoons/",
+     "vidsrccontains": "https://vidplay.online/mediainfo/",
+     "animesugecontains": "https://vidplay.online/mediainfo/",
+     "kimoitvpostformcontains": "https://kimoitv.com/streamvpaid.php",
+     
+     
+     "updownembed": "https://updown.icu",
+     "filelionsembed": "https://filelions.xyz",
+     "streamwishembed": "https://streamwish.site",
+     "megamaxembed": "https://megamax.me",
+     "filemoon1": "iframe"
+    }
+]
+  }   
