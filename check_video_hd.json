@@ -57,14 +57,17 @@
             "remove": "https://astream",
             "removeyot": "https://doc.moplay.org/js/jwplayer.js",
             "removeanixto": "m3u8#.mp4",
-            
-            
-            
-            "formurlcomedy2": "&do=getVideo",
-            "formurlcomedy2": "&do=getVideo",
-            "formurlcomedy2": "&do=getVideo",
-            "formurlcomedy2": "&do=getVideo",
-            "formurlcomedy2": "&do=getVideo",
+            "removebackUp": "m3u8#.mp4",
+            "removenewtoxic": "null",
+            "removevof": "null",
+            "removefstream": "null",
+            "removewatchseries": "m3u8#.mp4",
+            "removecloseload": "null",
+            "removeanimesuge": "m3u8#.mp4",
+            "removevidsrc": "m3u8#.mp4",
+            "removevidea": "banner",
+            "removegoogledrive": "null",
+            "removegurad": "null",
             "filemoon1": "iframe"
         }
     ]
