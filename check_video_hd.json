@@ -34,6 +34,31 @@
             "formoserver": "https://kisscartoon.sh/ajax/anime/load_episodes_v2?s=oserver",
             "formurlcomedy2": "&do=getVideo",
             "formurlcomedy": "https://comedyshow.to/player/index.php?data=",
+            "getvideocontainss9animetv": "master.m3u8",
+            "containsremoveexts9animetv": "#EXT-X-I-FRAME-STREAM-INF",
+            "removereplaces9animetv": "master.m3u8",
+            "removes9animetv": "master.m3u8",
+            "getvideocontainsa9animePe": "master.m3u8",
+            "containsremoveexta9animePe": "#EXT-X-I-FRAME-STREAM-INF",
+            "removereplacea9animePe": "master.m3u8",
+            "removea9animePe": "master.m3u8",
+            "getvideocontainsaniwatch": "master.m3u8",
+            "containsremoveextaniwatch": "#EXT-X-I-FRAME-STREAM-INF",
+            "removereplaceaniwatch": "master.m3u8",
+            "removeaniwatch": "master.m3u8",
+            "getvideocontainskaidoto": "master.m3u8",
+            "containsremoveextkaidoto": "#EXT-X-I-FRAME-STREAM-INF",
+            
+            
+            
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
+            "formurlcomedy2": "&do=getVideo",
             "filemoon1": "iframe"
         }
     ]
