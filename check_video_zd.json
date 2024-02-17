@@ -1,34 +1,39 @@
 {
-  "data": [
-    {
-     "zidlions1": "file",
-     "vidtube1": "jwplayer",
-     "filemoon1": "iframe",
-     "guard": "guardstorage.net",
-     "lylxan1": "file",
-     "vtube1": "file",
-     "mixdrop1": "MDCore",
-     "postcheck": "post",
-     "segavid": "file",
-     "watch": "watch",
-     "play": "play",
-     "fileupload1": "file",
-     "updown": "mp4",
-     "upstream1": "file",
-     "webleech": "files/leech/video",
-     "Inertia": "X-Inertia-Partial-Component",
-     "mirror": "files/mirror/video",
-     "uqloadembed": "https://uqload.io",
-     "doodembed": "https://doods.pro",
-     "vidtuveembed": "https://vidtube.pro",
-     "zidlionsembed": "https://filelions.xyz",
-     "mixdropembed": "https://mixdrop.to",
-     "vadbamembed": "https://qqw6.vadbam.net",
-     "megamaxembed": "https://megamax.me",
-     "streamvidembed": "https://streamvid.net",
-     "vidguradembed": "https://vid-guard.com",
-     "filemoonembed": "https://filemoon.art",
-     "streamvid1": "file"
-    }
-]
-  }   
+    "data": [
+        {
+            "zidlions1": "file",
+            "vidtube1": "jwplayer",
+            "filemoon1": "iframe",
+            "guard": "guardstorage.net",
+            "lylxan1": "file",
+            "vtube1": "file",
+            "mixdrop1": "MDCore",
+            "postcheck": "post",
+            "segavid": "file",
+            "watch": "watch",
+            "play": "play",
+            "fileupload1": "file",
+            "updown": "mp4",
+            "upstream1": "file",
+            "webleech": "files/leech/video",
+            "Inertia": "X-Inertia-Partial-Component",
+            "mirror": "files/mirror/video",
+            "uqloadembed": "https://uqload.io",
+            "doodembed": "https://doods.pro",
+            "vidtuveembed": "https://vidtube.pro",
+            "zidlionsembed": "https://filelions.xyz",
+            "mixdropembed": "https://mixdrop.to",
+            "vadbamembed": "https://qqw6.vadbam.net",
+            "megamaxembed": "https://megamax.me",
+            "streamvidembed": "https://streamvid.net",
+            "vidguradembed": "https://vid-guard.com",
+            "filemoonembed": "https://filemoon.art",
+            "replacebestxm3u8": "video.m3u8",
+            "checkcontainsbestxurl": "/video.m3u8?auth=",
+            "refererbestx": "https://animezid.net/",
+            "bestxcontains": "/video.m3u8?auth=",
+            "removebestx": "video.m3u8",
+            "streamvid1": "file"
+        }
+    ]
+}
