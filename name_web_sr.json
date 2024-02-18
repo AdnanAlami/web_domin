@@ -26,8 +26,8 @@
       "leech": "leech",
       "mail_ru": "mymailru",
       "Inertia": "X-Inertia-Partial-Component",
-      "mirror": "web/files/mirror/video",
-      "webleech": "web/files/leech/video",
+      "mirror": "files/mirror/video",
+      "webleech": "files/leech/video",
       "krakenfiles": "krakenfiles",
       "strema": "strema",
       "streamtap": "streamtape"
