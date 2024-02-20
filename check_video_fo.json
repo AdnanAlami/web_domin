@@ -5,6 +5,7 @@
      "jsoncode1": "{",
      "jsoncode2": "}",
      "jsoneps": "\"}]",
+     "checkcloudflare": "cloudflare",
      "json2": "&showId="
     }
 ]
