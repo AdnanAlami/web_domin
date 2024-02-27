@@ -60,7 +60,7 @@
             "removebackUp": "m3u8#.mp4",
             "removenewtoxic": "null",
             "removevof": "null",
-            "removefstream": "null",
+            "removefstream": "playlist.m3u8",
             "removewatchseries": "m3u8#.mp4",
             "removecloseload": "null",
             "removeanimesuge": "m3u8#.mp4",
