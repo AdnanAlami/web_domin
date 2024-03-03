@@ -68,6 +68,13 @@
             "removevidea": "banner",
             "removegoogledrive": "null",
             "removegurad": "null",
+            "removeyifytv": "m3u8#.mp4",
+            "yifytvcontains": "https://vidplay.online/mediainfo/",
+            "removenetflim": "mp4",
+            "netflimcontains": ".shegu.net/vip/p1/tv_mp4_",
+            "removeseez": "m3u8",
+            "seezcontains": "https://vidsrc.pro/api/e/",
+            "refererseez": "https://seez.su/",
             "filemoon1": "iframe"
         }
     ]
