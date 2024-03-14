@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "zidlions1": "file",
+            "segavid": "file",
+            "upstream1": "file",
+            "lylxan1": "file",
+            "vtube1": "file",
+            "updown": "mp4",
+            "lulustream1": "file",
+            "fileupload1": "file",
+            "Inertia": "X-Inertia-Partial-Component",
+            "mirror": "files/mirror/video",
+            "webleech": "files/leech/video",
+            "streamtapembed": "https://streamtape.com",
+            "uqloadembed": "https://uqload.io",
+            "okruembed": "https://ok.ru",
+            "doodembed": "https://doods.pro",
+            "vidtuveembed": "https://vidtube.pro",
+            "updownembed": "https://updown.icu",
+            "filelionsembed": "https://filelions.xyz",
+            "streamwishembed": "https://streamwish.site",
+            "megamaxembed": "https://megamax.me",
+            "banner": "banner",
+            "videacontains1080": "https://videa.hu/static/1080p/",
+            "videacontains720": "https://videa.hu/static/720p/",
+            "videacontains480": "https://videa.hu/static/480p/",
+            "videacontains360": "https://videa.hu/static/360p/",
+            "videacontains240": "https://videa.hu/static/240p/",
+            "remove_GoogleDrive": "&confirm=t&uuid=",
+            "googledrivecontains": "&confirm=t&uuid=",
+            "driveid": "https://drive.google.com/uc?id=",
+            "mail_meta": "https://my.mail.ru/+/video/meta/",
+            "filemoon1": "iframe"
+        }
+    ]
+}
