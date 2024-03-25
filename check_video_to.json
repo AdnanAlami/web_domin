@@ -31,6 +31,9 @@
             "googledrivecontains": "&confirm=t&uuid=",
             "driveid": "https://drive.google.com/uc?id=",
             "mail_meta": "https://my.mail.ru/+/video/meta/",
+            "apikeyyounplay": "&apiKey=fe3a6c2b-a3ca-4246-b794-2621bb198de2",
+            "vidyardApi": "https://play.vidyard.com/player/",
+            "vidyardtypejson": ".json",
             "filemoon1": "iframe"
         }
     ]
